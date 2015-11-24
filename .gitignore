@@ -60,3 +60,4 @@ target/
 *.un~
 *.pyc
 *.py~
+db.sqlite3
